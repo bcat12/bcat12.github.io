@@ -1,11 +1,11 @@
 # Site settings
-author: Brian Caterfino
-title: 
+author: Brian 
+title: Brief Thoughts on Big Data
 header-img: img/home-bg.png
 email: bcaterfino@gmail.com
-copyright_name: Brian Caterfino
+copyright_name: Brian 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Bringing Data to Life
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bcat12
